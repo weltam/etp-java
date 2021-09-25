@@ -18,7 +18,7 @@ import java.util.Map;
 import java.util.UUID;
 
 @QuarkusTest
-public class ChatTest
+public class ETPClientTest
 {
 	@TestHTTPResource("/chat/stu")
 	URI uri;
