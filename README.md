@@ -1,11 +1,13 @@
 # Energistics Transfer Protocol (ETP)
 
+## Overview
+
 The Energistics Transfer Protocol (ETP) data exchange specification enables efficient transfer of data between applications. 
 The initial use case is for real-time data; however, it is anticipated that ETP will be expanded to include functionality for historical data queries.  
 
 ETP has been specifically envisioned and designed to meet the unique needs of the upstream oil and gas industry and especially to facilitate the exchange of data across the Energistics family of data standards, which includes WITSML, PRODML and RESQML.
 
-## What is ETP? 
+## ETP as a Standard Protocol for Energy Industry
 
 [Overview](https://www.energistics.org/portfolio/energistics-transfer-protocol/)
 
