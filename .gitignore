@@ -24,7 +24,7 @@ hs_err_pid*
 
 .settings
 
-
+.idea
 target/
 
 .classpath
