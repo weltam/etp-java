@@ -15,7 +15,7 @@ ETP has been specifically envisioned and designed to meet the unique needs of th
 
 [Developers Overview](https://www.energistics.org/etp-developers-users/)
 
-[New data transfer protocol improves drilling support and safety](https://www.energistics.org/wp-content/uploads/2018/10/WO0118_Statoil_ETP_Test-1.pdf)
+[New data transfer protocol improves drilling support and safety by Statoil](https://www.energistics.org/wp-content/uploads/2018/10/WO0118_Statoil_ETP_Test-1.pdf)
 
 ## ETP Standard and Specification
 
