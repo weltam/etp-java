@@ -15,7 +15,16 @@ ETP has been specifically envisioned and designed to meet the unique needs of th
 
 [Developers Overview](https://www.energistics.org/etp-developers-users/)
 
+## Papers
+[WITSML 1.4—Enhanced Interoperability, Tested Certification and Streamlined Data Flows Alongside a New, High-Speed Data Protocol—The Next Step in Realizing True Interoperability for the Well Data Lifecycle](https://onepetro.org/SPEDEC/proceedings-abstract/15DEC/3-15DEC/D031S017R001/182445)
+
+[A New Communications Protocol for Real-Time Decision Making by William McKenzie (Chevron) & Mark Farnan (Bardaz)](https://onepetro.org/SPEIE/proceedings-abstract/16IE/All-16IE/SPE-181088-MS/186704)
+
+[Making Digital Collaboration More Efficient and Reliable With Second Generation Standard Interoperability Protocol](https://onepetro.org/SPEATCE/proceedings-abstract/20ATCE/3-20ATCE/D031S022R004/449824)
+
 [New data transfer protocol improves drilling support and safety by Statoil](https://www.energistics.org/wp-content/uploads/2018/10/WO0118_Statoil_ETP_Test-1.pdf)
+
+
 
 ## ETP Standard and Specification
 
