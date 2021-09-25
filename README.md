@@ -1,6 +1,5 @@
 # Energistics Transfer Protocol
 
-
 ## introduction ETP v1.2
 
 https://www.energistics.org/introduction-to-etp-v1-2/
@@ -16,7 +15,7 @@ https://www.energistics.org/etp-developers-users/
 
 ### docs 
 
-https://public.3.basecamp.com/p/pNHktDcKVBGENgAbTu57YAeU
+[Public PDF Documentation](https://public.3.basecamp.com/p/pNHktDcKVBGENgAbTu57YAeU)
 
 ### docs, schema and tools
 
@@ -42,27 +41,33 @@ https://www.energistics.org/product-catalog/
 
 ## News 
 
-https://www.energistics.org/energistics-releases-v1-2-of-energistics-transfer-protocol/
-
-## Resources 
+[Energistics Releases v1.2 of Energistics Transfer Protocol](https://www.energistics.org/energistics-releases-v1-2-of-energistics-transfer-protocol/)
 
 
+## Resources
+
+### old proptotype 
+
+https://sourceforge.net/projects/rlfprototype/
 
 ### Energistics University 
 
-https://vimeo.com/466273797
+[15. Data Transfer Overview](https://vimeo.com/466273797)
 
-https://vimeo.com/482829240
+[16. Energistics Transfer Protocol - ETP for Real Time](https://vimeo.com/482829240)
 
-https://vimeo.com/549000717
+[17. ETP Interoperability](https://vimeo.com/549000717)
+
 
 ### 2017
 
-https://www.youtube.com/watch?v=mRnEajOZUrw
 
-https://www.youtube.com/watch?v=c4iUuiQoPXo
+[Energistics Transfer Protocol Paves the Way for Remote Drilling Support Improvements - 01](https://www.youtube.com/watch?v=mRnEajOZUrw)
+
+[Energistics Transfer Protocol Paves the Way for Remote Drilling Support Improvements - 02](https://www.youtube.com/watch?v=c4iUuiQoPXo)
+
 
 ### 2021 
 
-https://vimeo.com/500643085
+[ETP DevKit Walkthrough](https://vimeo.com/500643085)
 
