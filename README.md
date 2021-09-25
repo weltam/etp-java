@@ -36,17 +36,17 @@ ETP has been specifically envisioned and designed to meet the unique needs of th
 
 ## ETP for Developers 
 
-[ETP .NET 5 Repo](https://bitbucket.org/wtambunan/etp-server-netcore/) 
+[ETP .NET 5 Repository](https://bitbucket.org/wtambunan/etp-server-netcore/) 
 
-[ETP Java Repo](https://bitbucket.org/wtambunan/etp-java/)
+[ETP Java Repository](https://bitbucket.org/wtambunan/etp-java/)
 
 [ETP Java Maven Library](https://search.maven.org/artifact/org.energistics/etp)
 
-[Energistics Repository](https://bitbucket.org/energistics/) 
+[Energistics Bitbucket Repository](https://bitbucket.org/energistics/) 
 
 [ETP DevKit](https://www.energistics.org/developer-resources/#ETP-devKit)
 
-[Old Prototype](https://sourceforge.net/projects/rlfprototype/)
+[Early Old Prototype](https://sourceforge.net/projects/rlfprototype/)
 
 ## News 
 
