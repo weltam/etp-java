@@ -1,6 +1,6 @@
 # Energistics Transfer Protocol
 
-## introduction ETP v1.2
+## Introduction ETP v1.2
 
 https://www.energistics.org/introduction-to-etp-v1-2/
 
@@ -11,23 +11,33 @@ https://www.energistics.org/etp-developers-users/
 [New data transfer protocol improves drilling support and safety](https://www.energistics.org/wp-content/uploads/2018/10/WO0118_Statoil_ETP_Test-1.pdf)
 
 
-## spesification 
+## ETP Specification 
 
-### docs 
+### Docs 
 
 [Public PDF Documentation](https://public.3.basecamp.com/p/pNHktDcKVBGENgAbTu57YAeU)
 
-### docs, schema and tools
+### Docs, schema and tools
 
 https://www.energistics.org/download-standards/
 
-### energistics full standard (WITSML, PRODML, RESQML)
+### Energistics Online Docs (WITSML, PRODML, RESQML)
 
 http://docs.energistics.org/
 
 ## ETP for developers 
 
-### git repository 
+### ETP .NET Core 
+
+https://bitbucket.org/wtambunan/etp-java/src
+
+### ETP Java Maven Library 
+
+https://bitbucket.org/wtambunan/etp-java/src/master/
+
+https://search.maven.org/artifact/org.energistics/etp
+
+### Git repository 
 
 https://bitbucket.org/energistics/
 
@@ -35,7 +45,7 @@ https://bitbucket.org/energistics/
 
 https://www.energistics.org/developer-resources/#ETP-devKit
 
-## ETP products
+## ETP Products
 
 https://www.energistics.org/product-catalog/
 
@@ -43,10 +53,9 @@ https://www.energistics.org/product-catalog/
 
 [Energistics Releases v1.2 of Energistics Transfer Protocol](https://www.energistics.org/energistics-releases-v1-2-of-energistics-transfer-protocol/)
 
-
 ## Resources
 
-### old proptotype 
+### Old Proptotype 
 
 https://sourceforge.net/projects/rlfprototype/
 
