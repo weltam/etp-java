@@ -1,4 +1,4 @@
-package org.acme.websockets;
+package com.wellytambunan.etp;
 
 import Energistics.Etp.v12.Datatypes.*;
 import Energistics.Etp.v12.Protocol.Core.RequestSession;
@@ -28,7 +28,7 @@ public class ChatTest
 	{
 		try (Session session = ContainerProvider.getWebSocketContainer().connectToServer(Client.class, uri))
 		{
-			Thread.sleep(10000);
+			Thread.sleep(1000);
 //			session.getAsyncRemote().sendText("hello world");
 		}
 	}

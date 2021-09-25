@@ -1,4 +1,4 @@
-package org.acme.websockets;
+package com.wellytambunan.etp;
 
 import io.quarkus.test.junit.NativeImageTest;
 

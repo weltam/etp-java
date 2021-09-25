@@ -1,4 +1,4 @@
-package org.acme.websockets;
+package com.wellytambunan.etp;
 
 import Energistics.Etp.v12.Protocol.Core.RequestSession;
 import org.jboss.logging.Logger;
